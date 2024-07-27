@@ -55,6 +55,7 @@ button {
     height: 36px;
     background-image: var(--nav-icon-background);
     background-size: cover;
+    cursor: pointer;
 
     transition: .4s background-image;
 }
